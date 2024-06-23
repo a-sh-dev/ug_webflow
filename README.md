@@ -21,39 +21,5 @@ In an actual scenario, upon receiving the design, I would like to have the oppor
 
 - Inconsistencies in the footer links text transform.
 
-```
-[data-button-style="secondary"] {
-	--button--background: var(--button-secondary--background);
-	--button--text: var(--button-secondary--text);
-	--button--border: var(--button-secondary--border);
-	--button--background-hover: var(--button-secondary--background-hover);
-	--button--text-hover: var(--button-secondary--text-hover);
-	--button--border-hover: var(--button-secondary--border-hover);
-}
 
-[class*='section-'] {
-  border: 1px solid pink;
-};
-
-```
-
-```
-custom-attributes:
-
-data-button-style="{{ Button Style }}"
-```
-
-```react
-// arrow
-<svg width="15" height="13" viewBox="0 0 15 13" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M8.5 1.5L13.5 6.5M13.5 6.5L8.5 11.5M13.5 6.5H1" stroke="#1757C2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
-
-// chevron
-<svg width="8" height="13" viewBox="0 0 8 13" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M1.5 1.5L6.5 6.5L1.5 11.5" stroke="#1757C2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
-
-
-```
 
