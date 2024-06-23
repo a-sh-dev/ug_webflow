@@ -43,15 +43,15 @@ In an actual scenario, upon receiving the design, I would like to have the oppor
 ## Trade-offs
 
 - Due to the time limitation and using Webflow for the first time after so many years, I didn't manage to finish all the stretch goals.
-- The Navigation open menu is not great; somehow, the interaction is not as expected (how the animation doesn't appear as intended).
+- The Navigation open menu is not great; somehow, the interaction is not as expected (how the out animation doesn't appear as intended).
 - If there is more time, I would love to create the score instant score-checking form with Javascript without using the Webflow native form. I tried to attempt to get rid of the success message, but it didn't work! The error message also didn't trigger on the document as intended.
 - If there is more time, I would clean up the CSS files and variables and perhaps add more custom CSS, as they are quite messy, although some are reusable, by using the combo CSS.
 - I would also love to add more page interactions, such as a loading page or sliding content as you scroll, and animations to make the website more exciting.
-- Please note that the responsiveness is not as fluid as I want it to be. Especially the hero heading. I could have broken it into spans so the switch graphic could stay relative to the first line instead of the wrapper.
+- Please note that the responsiveness is not as fluid/smooth as I want it to be.
 
 ## Reflections
 
-Thank you, I enjoyed the challenge! It took quite a learning curve to develop with Webflow if you're used to building a website from scratch with React or other frameworks. I look forward to learning more!
+Thank you! I really enjoyed the challenge. It was quite a learning curve to develop with Webflow, especially coming from building websites from scratch with React and other frameworks. However, I'm excited to continue learning and growing! 🤩
 
 
 
