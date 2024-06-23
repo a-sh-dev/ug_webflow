@@ -1,3 +1,13 @@
+# Webflow challenge
+
+Published website:
+
+```
+https://angie-hentri.webflow.io
+```
+
+
+
 # Design interpretation & decision making
 
 As much as I want to ensure design accuracy in the implementation (as pixel-perfect), some parts of the design could be clarified, and I will expand more on this below. For this challenge, I will treat the design as flat (e.g., ignoring layer transparency/opacity used for colour manipulation) and follow best practices for user experience.
